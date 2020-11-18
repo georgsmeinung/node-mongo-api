@@ -1,0 +1,14 @@
+extends layout
+
+block content          
+    form.form-signin
+        div.text-center.mb-4
+            h1.h3.mb-3.font-weight-normal Login
+        div.form-label-group
+            small Email address
+            input(id="inputEmail" type="email" placeholder="Email address" required autofocus).form-control
+        div.form-label-group
+            small Password
+            input(id="inputPassword" type="password" placeholder="Password" required).form-control
+        br
+        button(type="submit").btn.btn-lg.btn-primary.btn-block Sign in

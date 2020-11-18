@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "5fb54e5852394d74aa918ff7"
+  },
+  "name": "Jorge",
+  "email": "jorge@example.com",
+  "password": "password1!",
+  "date": {
+    "$date": "2020-11-18T16:39:52.019Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb54e7252394d74aa918ff8"
+  },
+  "name": "Alice",
+  "email": "alice@example.com",
+  "password": "password1!",
+  "date": {
+    "$date": "2020-11-18T16:40:18.673Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb54f67a65eb674bf2879f5"
+  },
+  "name": "Bob",
+  "email": "bob@example.com",
+  "password": "password1!",
+  "date": {
+    "$date": "2020-11-18T16:44:23.668Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5502e0207a074d434f2bf"
+  },
+  "name": "Charles Updated",
+  "email": "charles@example.com",
+  "password": "password1!",
+  "date": {
+    "$date": "2020-11-18T16:47:42.180Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb550be0207a074d434f2c1"
+  },
+  "name": "Daniel",
+  "email": "daniel@example.com",
+  "password": "password1!",
+  "date": {
+    "$date": "2020-11-18T16:50:06.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb566da1741587766cab4c2"
+  },
+  "name": "Eddie",
+  "email": "eddie@example.com",
+  "password": "$2b$10$yWngMPA6x4yR2jDNtVDn0e.2iDLv6sX4.TtHQ8MwT7kRAWD0ymvBq",
+  "date": {
+    "$date": "2020-11-18T18:24:26.560Z"
+  },
+  "__v": 0
+}]
